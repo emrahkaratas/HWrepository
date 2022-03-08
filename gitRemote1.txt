@@ -1,0 +1,1 @@
+This is gitRemote1.txt file
